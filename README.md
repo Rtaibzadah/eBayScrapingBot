@@ -20,7 +20,7 @@ Automated Notifications: Sends notifications of product updates directly to a Di
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/ebay-webscraper-python.git
+git clone https://github.com/Rtaibzadah/eBayScrapingBot.git
 cd ebay-webscraper-python
 ```
 
