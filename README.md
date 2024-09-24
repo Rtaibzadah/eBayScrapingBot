@@ -59,6 +59,5 @@ This command will search for iPhone 13 listings on eBay with prices between CA$3
 Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue for any suggestions or bug reports.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
+# License
+There is no license :)
