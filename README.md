@@ -3,6 +3,10 @@
 eBay Web Scraper with Discord Integration
 
 This Python-based tool scrapes product data from eBay, such as prices, product titles, and locations, and provides a simple interface to request the data through a Discord bot. The bot returns the data in real-time, offering features like filtering by price range and sending notifications.
+<p align="center">
+<img width="538" alt="Screenshot 2024-09-24 at 08 04 49" src="https://github.com/user-attachments/assets/7e697f72-9cb5-40c8-bff0-42110cf1acac">
+<img width="538" alt="Screenshot 2024-09-24 at 08 03 18" src="https://github.com/user-attachments/assets/6a60adb2-4870-492d-9b33-9f5b8bdf0c42">
+</p>
 
 # Features
 Product Scraping: Automatically scrapes eBay for specific products based on user queries.
